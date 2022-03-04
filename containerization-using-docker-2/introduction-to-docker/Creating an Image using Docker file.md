@@ -9,9 +9,7 @@
     ENV name Devops Learn 
 
 # Then using the docker build command, build the image.
-$ docker build . -t username/practiceapp
+    $ docker build . -t username/practiceapp
 
 # This command helps you in listing all the docker images downloaded on your system. 
-$ docker images 
-
-# 
+    $ docker images
