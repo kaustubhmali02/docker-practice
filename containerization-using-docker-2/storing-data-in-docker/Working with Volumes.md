@@ -15,9 +15,6 @@
 ### This command is used to remove all volumes.
     $ docker volume prune
 
-### This command is used to run a container attached to a volume using the ‘--mount’ flag.
-    $ docker run -d --name <name-of-container> --mount source = <volume-name>, target = <target-path><image-name>
-
 ### This command is used to run a container attached to a volume using the ‘--volume’ flag.
     $ sudo docker run –d --name <name-of-container> --volume <name_of_volume>:<destination_path> <image-name>.
 
