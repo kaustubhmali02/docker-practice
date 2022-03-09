@@ -19,4 +19,4 @@
     $ sudo docker run –d --name <name-of-container> --volume <name_of_volume>:<destination_path> <image-name>.
 
 ### This command is used to create a read-only volume.
-    $ sudo docker run -d --name test --mount source = <name-of-volume>, target = <target-path>, readonly <image-name> 
+    $ sudo docker run -d --name test --mount source = <name-of-volume>, target = <target-path>, readonly <image-name> cla
