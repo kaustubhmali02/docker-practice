@@ -1,0 +1,9 @@
+test/compose-django/manage.py
+test/compose-django/composeexample/__init__.py
+test/compose-django/composeexample/settings.py
+test/compose-django/composeexample/urls.py
+test/compose-django/composeexample/wsgi.py
+test/compose-django/composeexample/__pycache__/__init__.cpython-310.pyc
+test/compose-django/composeexample/__pycache__/settings.cpython-310.pyc
+test/compose-django/composeexample/__pycache__/urls.cpython-310.pyc
+test/compose-django/composeexample/__pycache__/wsgi.cpython-310.pyc
